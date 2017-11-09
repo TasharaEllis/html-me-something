@@ -1,0 +1,54 @@
+#special{
+	color: blue;
+	text-align: center;
+}
+
+img{
+	width: 100%;
+	border: 1px solid red; 
+    border-radius: 9px;
+    padding: 5px; 
+    border-radius: 9px;
+    
+}
+
+body{
+	width:70%;
+	margin: auto;
+}
+
+footer{
+	background-color: grey;
+}
+
+h3{
+	border: 2px solid green;
+	padding: 5px;
+	border-radius: 9px;
+}
+
+h2{
+	border: 2px solid red;
+	padding:5px;
+	border-radius: 9px;
+}
+
+p{
+	font-size: 24px;
+}
+
+ul{
+	font-size: 24px;
+}
+
+h4{
+	font-size: 24px;
+	text-align: center;
+}
+#cool{
+	font-size: 24px;
+
+}
+h1{
+	font-size: 80px;
+}
